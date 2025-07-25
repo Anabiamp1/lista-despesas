@@ -6,7 +6,7 @@ Lista de Despesas interativo para usuário.
 
 <div align="center">
   
-![Image](https://github.com/user-attachments/assets/a45a1cb2-a243-46bf-b3fe-3833ba8375e0)
+![Image](https://github.com/user-attachments/assets/09fa4e6a-ebd0-4331-b67f-bf82094940da)
 
 
 <p align="center">
